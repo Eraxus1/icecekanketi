@@ -27,19 +27,19 @@ if(isset($_POST['gonder'])){
     $s4=$_POST["s4"];
   }
   if(empty($_POST["s5"])){
-    echo " 4. kısım boş olamaz";
+    echo " 5. kısım boş olamaz";
   }  
   else{ //değişken tanımlama
     $s5=$_POST["s5"];
   }
   if(empty($_POST["s6"])){
-    echo " 4. kısım boş olamaz";
+    echo " 6. kısım boş olamaz";
   }  
   else{ //değişken tanımlama
     $s6=$_POST["s6"];
   }
   if(empty($_POST["s7"])){
-    echo " 4. kısım boş olamaz";
+    echo " 7. kısım boş olamaz";
   }  
   else{ //değişken tanımlama
     $s7=$_POST["s7"];
